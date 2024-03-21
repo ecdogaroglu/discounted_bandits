@@ -4,7 +4,7 @@
 See the pdf file for a compiled version.
 
 
-# Introduction {#introduction .unnumbered}
+# Introduction
 
 Learning through experimentation is typically characterized as a
 multi-armed bandit problem, where the agents face the decision of
@@ -95,7 +95,7 @@ agents use to decide when to experiment. Such a model might be used to
 explain periodic risk sensitives depending on factors like
 self-confidence and liquidity.
 
-# Related Literature {#related-literature .unnumbered}
+# Related Literature
 
 In the modern economics literature, strategic experimentation with
 bandit problems generally dates to [@bolton1999strategic], where authors
@@ -197,7 +197,7 @@ comprehensive survey regarding strategic experimentation with various
 considerations of motivation, delegation, information disclosure and
 multiplicity of options is given by [@horner2017learning].
 
-# Model {#model .unnumbered}
+# Model
 
 As mentioned, I largely adopt the Brownian specification in
 [@keller2020undiscounted] with the fundamental difference that the
